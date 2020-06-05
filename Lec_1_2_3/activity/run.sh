@@ -1,0 +1,1 @@
+node tpp.js treefy  "/home/shubham23/Desktop/Pep_coding/Dev/Lec_1/raw/xyz" "/home/shubham23/Desktop/Pep_coding/Dev/Lec_1/raw/dest"
