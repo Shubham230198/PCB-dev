@@ -1,0 +1,27 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dirOrganizer": "./2.Act_fileOrganizer/organizer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham230198/PCB-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham230198/PCB-dev/issues"
+  },
+  "homepage": "https://github.com/Shubham230198/PCB-dev#readme"
+}
